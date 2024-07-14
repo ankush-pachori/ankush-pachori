@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Programming languages
 - 📫 How to reach me ankushpachori1072@gmail.com
-- 😄 Pronouns: Ak
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play football 
 
 <!---
